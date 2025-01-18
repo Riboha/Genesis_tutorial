@@ -1,4 +1,5 @@
 import numpy as np
+import trimesh
 
 import genesis as gs
 import genesis.utils.geom as gu
